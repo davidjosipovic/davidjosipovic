@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidjosipovic
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 💞️ I’m not looking to collaborate
 - 📫 Don't try to reach me ...
 
