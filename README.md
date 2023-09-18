@@ -4,7 +4,7 @@ Hey there! I'm a Full Stack Web Developer with expertise in HTML, CSS, and JavaS
 
 ## Skills
 
-- Front-end: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+- Front-end: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Next.js
 - Back-end: Node.js, Express.js
 - Databases: MongoDB, MySQL
 - Other: Python, C++
