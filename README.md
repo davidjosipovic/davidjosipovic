@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hey there! I'm a Full Stack Web Developer with expertise in HTML, CSS, and JavaScript. I also have hands-on experience in Node.js, React, Express.js, MongoDB, MySQL, and Bootstrap. In addition to that, I possess proficiency in Python and C++. I'm passionate about building web applications and creating seamless user experiences.
+Hey there! I'm a Full Stack Web Developer with expertise in HTML, CSS, and JavaScript. I also have hands-on experience in Node.js, React, Express.js, Bootstrap and all a lot of databases. In addition to that, I possess proficiency in Python and C++. I'm passionate about building web applications and creating seamless user experiences.
 
 ## Skills
 
