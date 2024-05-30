@@ -19,7 +19,6 @@ Feel free to explore the repositories to get a better understanding of my work a
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me through the following channels:
 
 - LinkedIn: [david-josipovic](https://www.linkedin.com/in/david-josipovi%C4%87-84a379203/)
-- Personal Website: [davidjosipovic.netlify.app](https://davidjosipovic.netlify.app/)
 
 I'm open to new ideas and projects, so don't hesitate to get in touch. Looking forward to connecting with you!
 
