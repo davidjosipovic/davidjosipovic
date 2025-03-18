@@ -2,7 +2,7 @@
 
 👋 Hey there! I'm a **Full-Stack Developer** passionate about building **scalable web applications**.  
 
-💼 **Currently:** Working at **Iskon**, finishing my **Master’s in CS**, and preparing for **international opportunities** in 🇳🇱.  
+💼 **Currently:** Working at **Bonbon**, finishing my **Master’s in CS**, and preparing for **international opportunities** in 🇳🇱.  
 
 ---
 
